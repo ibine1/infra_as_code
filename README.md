@@ -17,12 +17,12 @@ Le DSI a demandé de prendre en charge la migration de l’infrastructure exista
 Infra Acutelle: 
 
 
-![0](https://github.com/ibine1/infra_as_cloud/blob/main/Capture%20p10/Infra_actuelle.png)
+![0](./images/infra_depart_p10.png)
 
 Infra Cible : 
 
 
-![1](https://github.com/ibine1/infra_as_cloud/blob/main/Capture%20p10/infra.png)
+![1](./images/infra_cible.png)
 
 Vous trouverez le détail sur le fichier [Cloudformation_ibine_github.yml](https://github.com/ibine1/infra_as_cloud/blob/main/Cloudformation_ibine_github.yml) 
 
