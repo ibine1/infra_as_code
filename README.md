@@ -18,7 +18,6 @@ Infra Acutelle:
 
 
 ![0](./images/infra_depart_P10.png)
-![0](./images/infra_depart_p10.png)
 
 Infra Cible : 
 
